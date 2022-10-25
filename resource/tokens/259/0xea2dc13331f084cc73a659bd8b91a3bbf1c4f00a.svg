@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+	<style>
+		.s1 { opacity: .6;fill: #ffffff }
+		.s3 { opacity: .2;fill: #ffffff } 
+	</style>
+	<path fill="#627eea" d="m16 32c-8.8 0-16-7.2-16-16 0-8.8 7.2-16 16-16 8.8 0 16 7.2 16 16 0 8.8-7.2 16-16 16z"/>
+	<path class="s1" d="m24 16.2l-7.5-3.3v-8.9z"/>
+	<path fill="#fff" d="m16.5 12.9l-7.5 3.3 7.5-12.2z"/>
+	<path class="s1" d="m24 17.6l-7.5 10.4v-6z"/>
+	<path fill="#fff" d="m9 17.6l7.5 4.4v6z"/>
+	<path class="s3" d="m16.5 12.9l7.5 3.3-7.5 4.4z"/>
+	<path class="s1" d="m16.5 12.9v7.7l-7.5-4.4z"/>
+</svg>

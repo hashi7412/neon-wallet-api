@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>neon-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="128.1" y1="211" x2="128.1" y2="44.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#490a8c"/>
+			<stop offset=".8" stop-color="#881fde"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="194.9" y1="183.8" x2="194.9" y2="44.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#490a8c"/>
+			<stop offset=".8" stop-color="#881fde"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="128.1" y1="200.8" x2="128.1" y2="54.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#db00a7"/>
+			<stop offset=".8" stop-color="#ff0677"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #ffc200;stroke-width: 15.1 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: #d3ff00 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m128 248.3c-66.5 0-120.3-53.8-120.3-120.3 0-66.5 53.8-120.3 120.3-120.3 66.5 0 120.3 53.8 120.3 120.3 0 66.5-53.8 120.3-120.3 120.3z"/>
+	<path id="Layer" class="s1" d="m97.1 205l-26.2 6c-26.5-18.3-44-48.8-44-83.5 0-17.9 4.6-34.6 12.8-49.2l25.7-5.9c-12.9 14.7-20.8 34-20.8 55.1 0 35.1 21.8 65.2 52.5 77.5z"/>
+	<path id="Layer" class="s2" d="m229.3 127.5c0 18.3-4.9 35.5-13.5 50.3l-26.2 6c13.6-14.9 21.9-34.6 21.9-56.3 0-34.6-21-64.2-50.9-76.9l25.7-5.9c26 18.3 43 48.6 43 82.8z"/>
+	<path id="Layer" class="s3" d="m128.1 200.9c-40.6 0-73.4-32.8-73.4-73.4 0-40.6 32.8-73.4 73.4-73.4 40.6 0 73.4 32.8 73.4 73.4 0 40.6-32.8 73.4-73.4 73.4z"/>
+	<path id="Layer" class="s4" d="m170.3 174.3l-46 10.5-8.8-51.3-22.9 5.2 21.7 0.7-10.2 50-46.1 10.5 24.1-117.5 41-9.4c2.9-0.6 5.4 1 5.8 3.8l8 46.3 11.5-55.8 46-10.5-24.1 117.5z"/>
+</svg>
