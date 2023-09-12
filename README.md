@@ -2,4 +2,4 @@
 
 neon wallet api
 
-Created by Hashi
+Created by Hashi and Iris
